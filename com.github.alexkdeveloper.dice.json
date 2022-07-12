@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/dice.git",
-                    "tag": "1.0.1",
-                    "commit": "38d481e8209869c0efbd57658adc2a7ac2d4f189"
+                    "tag": "1.0.2",
+                    "commit": "52124bb1a44791b0a8ddf6c382981d9a24f8f21a"
                 }
             ]
         }
